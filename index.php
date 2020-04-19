@@ -9,6 +9,7 @@
 <p>This is a paragraph 1.</p>
 <p>This is a paragraph 2.</p>
 <p>This is a paragraph 3.</p>
+<p>This is a paragraph 3 in master.</p>
 
 </body>
 </html>
