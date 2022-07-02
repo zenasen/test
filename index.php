@@ -12,6 +12,7 @@
 <p>This is a paragraph 3 in master.</p>
 <p>This is a paragraph 4 in staging.</p>
 <p>This is a paragraph 5 in staging.</p>
+<p>This is a paragraph 6 in staging.</p>
 
 </body>
 </html>
