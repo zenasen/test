@@ -14,5 +14,7 @@
 <p>This is a paragraph 5 in staging.</p>
 <p>This is a paragraph 6 in staging.</p>
 
+<h2>Staging 2</h2>
+
 </body>
 </html>
